@@ -12,18 +12,58 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
   m_Name: ReferenceImageLibrary
   m_EditorClassIdentifier: 
-  m_GuidLow: 5533445379003801470
-  m_GuidHigh: 4347270527899541411
+  m_GuidLow: 4973226987761430215
+  m_GuidHigh: 9009356753711236278
   m_DataStore:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5171430505747701988
-      m_GuidHigh: 2504497948082579328
+      m_GuidLow: 5579722883547576638
+      m_GuidHigh: 2122530281068220051
     m_SerializedTextureGuid:
-      m_GuidLow: 0
-      m_GuidHigh: 0
+      m_GuidLow: 17412261289117981870
+      m_GuidHigh: 1397682709423301114
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: 
+    m_Name: Running
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5569810316973391120
+      m_GuidHigh: 12606878612774054543
+    m_SerializedTextureGuid:
+      m_GuidLow: 18317343630747360882
+      m_GuidHigh: 14751061866207136600
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Weight Lifting
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5019154427567795043
+      m_GuidHigh: 9046098737591114905
+    m_SerializedTextureGuid:
+      m_GuidLow: 5288398720767509728
+      m_GuidHigh: 10787027009298587640
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Core
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5252456315547960064
+      m_GuidHigh: 7550036606384343997
+    m_SerializedTextureGuid:
+      m_GuidLow: 7598911177130483398
+      m_GuidHigh: 11056764973410160187
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Swimming
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5418567106984857870
+      m_GuidHigh: 4243348426768004498
+    m_SerializedTextureGuid:
+      m_GuidLow: 5342445692399167840
+      m_GuidHigh: 8493799538147656491
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: walking
     m_Texture: {fileID: 0}
